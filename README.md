@@ -29,24 +29,18 @@ The goal is **not to memorize every syntax rule**, but to:
 
 # Learning Path
 
-This repository will grow over time as I study the following technologies:
+This repository will grow over time as I study the following technologies.
 
 ### Web Fundamentals
 - HTML
 - CSS
 - JavaScript
 
-### Frontend Development
+### Additional Languages (planned)
 - React
-
-### Backend Development
 - Node.js
 - Express
-
-### Databases
 - SQL
-
-### Additional Languages (planned)
 - TypeScript
 - Python
 - Swift
@@ -59,28 +53,32 @@ The structure of this repository will expand as I progress through new technolog
 
 dev-learning-library/
 │
-├─ html/
-├─ css/
-├─ javascript/
-├─ react/
-├─ node/
-├─ express/
-├─ sql/
-├─ typescript/
-├─ python/
-├─ swift/
+├─ html/ → HTML examples and exercises
+├─ css/ → CSS examples and styling concepts
+├─ javascript/ → JavaScript learning exercises
 │
-├─ notes/
-└─ experiments/
+├─ projects/ → small standalone projects
+├─ experiments/ → quick concept tests and playground code
+├─ notes/ → personal learning notes and explanations
+│
+├─ react/ → future React learning examples
+├─ node/ → Node.js backend experiments
+├─ express/ → Express.js server examples
+├─ sql/ → database query exercises
+├─ typescript/ → typed JavaScript experiments
+├─ python/ → Python learning examples
+└─ swift/ → Swift experiments
 
 ---
 
 # Folder Overview
 
 ## html/
+
 Contains HTML examples used to understand document structure and markup.
 
 Examples include:
+
 - basic HTML structure
 - headings and paragraphs
 - links and images
@@ -92,9 +90,11 @@ Examples include:
 ---
 
 ## css/
+
 Contains CSS examples related to styling and layout concepts.
 
 Examples include:
+
 - colors and backgrounds
 - typography
 - margins and padding
@@ -106,9 +106,11 @@ Examples include:
 ---
 
 ## javascript/
+
 Contains JavaScript examples and exercises focused on programming fundamentals.
 
 Examples include:
+
 - variables
 - strings and numbers
 - comparisons
@@ -123,55 +125,91 @@ Examples include:
 
 ---
 
-## react/
-Will contain examples and experiments related to React components and frontend architecture.
+## projects/
+
+Contains small standalone projects created while learning programming.
+
+Projects usually combine multiple concepts such as HTML, CSS, and JavaScript.
+
+Examples include:
+
+- rebuilding real websites
+- mini web applications
+- practice projects from learning platforms (such as Mimo)
+- personal project ideas
+
+Each project typically contains its own:
+
+- HTML
+- CSS
+- JavaScript
+- assets
+- project documentation (README)
 
 ---
 
-## node/
-Will contain examples and experiments related to Node.js backend development.
+## experiments/
 
----
+Contains small experiments and isolated tests of programming concepts.
 
-## express/
-Will contain examples related to Express.js server frameworks and API building.
+This folder is used for:
 
----
+- testing specific language features
+- small code snippets
+- quick concept demonstrations
+- trying out new techniques
 
-## sql/
-Contains SQL examples for learning database queries and data structures.
-
----
-
-## typescript/
-Future examples related to typed JavaScript development.
-
----
-
-## python/
-Future examples and experiments while learning Python.
-
----
-
-## swift/
-Future examples related to Swift development.
+Experiments are usually smaller than full projects and may consist of only a few files.
 
 ---
 
 ## notes/
+
 Contains personal notes explaining concepts learned during the learning process.
 
 These notes help reinforce understanding and provide quick reference material.
 
 ---
 
-## experiments/
-Contains small experiments, rebuilt exercises, and practice files.
+## react/
 
-This folder is used for:
-- testing ideas
-- rebuilding coding challenges
-- trying out new concepts
+Will contain examples and experiments related to React components and frontend architecture.
+
+---
+
+## node/
+
+Will contain examples and experiments related to Node.js backend development.
+
+---
+
+## express/
+
+Will contain examples related to Express.js server frameworks and API building.
+
+---
+
+## sql/
+
+Contains SQL examples for learning database queries and data structures.
+
+---
+
+## typescript/
+
+Future examples related to typed JavaScript development.
+
+---
+
+## python/
+
+Future examples and experiments while learning Python.
+
+---
+
+## swift/
+
+Future examples related to Swift development.
 
 ---
 
