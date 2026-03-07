@@ -1,0 +1,22 @@
+body {
+    background-color: slateblue;
+    font-family:trebuchet;
+    color: white;
+    text-align: center;
+}
+a {
+    background-color: white;
+    font-size: 2-px;
+    border-radius: 10px;
+    padding: 10px;
+    display: block;
+    texst-align: center;
+    margin: 10px;
+    color:slateblue;
+}
+img {
+    border-radius: 75px;
+}
+h2 {
+    font-size: 18;
+}
